@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <a href="listar_postagem.php">Ver postagens</a>
 </body>
 </html>
