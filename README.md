@@ -16,7 +16,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Guilherme Saraiva Silva
 - Gustavo Henrique Silveira Rezende
 - Hiago Cândido de Oliveira
-- Humberto Eugênio Rocha de Souza
+- Humberto Eugênio Rocha de Souza [@humbertoeugenio-collab](https://github.com/humbertoeugenio-collab)
 - Izabela Lima Oliveira
 - Izabella Bastos Avelar
 - Jean Paul Rodrigues Flauzino Filho
