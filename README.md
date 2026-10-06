@@ -19,7 +19,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Humberto Eugênio Rocha de Souza
 - Izabela Lima Oliveira
 - Izabella Bastos Avelar
-- Jean Paul Rodrigues Flauzino Filho (@jeanrodrigues-ai) (https://github.com/jeanrodrigues-ai)
+- Jean Paul Rodrigues Flauzino Filho (@jeanrodrigues-ai)(https://github.com/jeanrodrigues-ai)
 - Joseane Souza Nunes
 - Lavínya Karolinne Costa Oliveira
 - Luís Arthur Morais Belo
