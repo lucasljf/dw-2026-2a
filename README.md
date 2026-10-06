@@ -10,7 +10,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Alexandre Alves Araújo
 - Camila Perez Alfonzo
 - Emanuelly Vitoria Lima da Silva
-- Emilly Vitória Antônio de Lima
+- Emilly Vitória Antônio de Lima[@evtoriaawz](https://github.com/evtoriaawz)
 - Gabriel Washington Freitas Ribeiro
 - Gilmar Alves de Oliveira Neto
 - Guilherme Saraiva Silva
