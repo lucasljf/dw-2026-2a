@@ -34,5 +34,5 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Quezia Oliveira Leite
 - Rafael Ferreira Felipe
 - Rebeca Silva Pereira
-- Sofhia Parreira Dias
+- Sofhia Parreira Dias [@SofhisxXDs](https://github.com/SofhisxXDs)
 - Yasmin Cordeiro de Sousa Cunha
