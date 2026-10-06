@@ -27,7 +27,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Mateus Henrique Cavicchioli
 - Miguel Henrique de Oliveira
 - Murillo da Silva Brito
-- Murilo Ferreira da Costa
+- Murilo Ferreira da Costa  [@mfcsta](https://github.com/mfcsta)
 - Núria Vitória Ferreira da Silva
 - Otávio Augusto Oliveira Silva
 - Pyêtro Emanuel Batista do Nascimento
