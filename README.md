@@ -12,7 +12,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Emanuelly Vitoria Lima da Silva
 - Emilly Vitória Antônio de Lima
 - Gabriel Washington Freitas Ribeiro
-- Gilmar Alves de Oliveira Neto
+- Gilmar Alves de Oliveira Neto[@gilmaraon](https://github.com/gilmaraon)
 - Guilherme Saraiva Silva
 - Gustavo Henrique Silveira Rezende
 - Hiago Cândido de Oliveira
