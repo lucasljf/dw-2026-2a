@@ -30,7 +30,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Murilo Ferreira da Costa
 - Núria Vitória Ferreira da Silva
 - Otávio Augusto Oliveira Silva
-- Pyêtro Emanuel Batista do Nascimento
+- Pyêtro Emanuel Batista do Nascimento [@pyetrin062](https://github.com/pyetrin062)
 - Quezia Oliveira Leite
 - Rafael Ferreira Felipe
 - Rebeca Silva Pereira
