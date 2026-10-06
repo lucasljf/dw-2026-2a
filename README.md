@@ -32,7 +32,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Otávio Augusto Oliveira Silva
 - Pyêtro Emanuel Batista do Nascimento
 - Quezia Oliveira Leite
-- Rafael Ferreira Felipe
+- Rafael Ferreira Felipe [@rafaeufelipe](https://github.com/rafaeufelipe)
 - Rebeca Silva Pereira
 - Sofhia Parreira Dias
 - Yasmin Cordeiro de Sousa Cunha
