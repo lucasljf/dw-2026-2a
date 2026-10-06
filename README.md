@@ -35,4 +35,4 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Rafael Ferreira Felipe
 - Rebeca Silva Pereira
 - Sofhia Parreira Dias
-- Yasmin Cordeiro de Sousa Cunha
+- Yasmin Cordeiro de Sousa Cunha [@yasscunha1] (https://github.com/yasscunha1)
