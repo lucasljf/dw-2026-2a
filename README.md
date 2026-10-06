@@ -25,7 +25,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Luís Arthur Morais Belo
 - Luíz Otávio Oliveira Silva
 - Mateus Henrique Cavicchioli
-- Miguel Henrique de Oliveira
+- Miguel Henrique de Oliveira [@miguelhenrique1-wq](https://github.com/miguelhenrique1-wq)
 - Murillo da Silva Brito
 - Murilo Ferreira da Costa
 - Núria Vitória Ferreira da Silva
