@@ -24,7 +24,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Lavínya Karolinne Costa Oliveira
 - Luís Arthur Morais Belo
 - Luíz Otávio Oliveira Silva
-- Mateus Henrique Cavicchioli [@matcavicchioli] (https://github.com/matcavicchioli)
+- Mateus Henrique Cavicchioli [@matcavicchioli](https://github.com/matcavicchioli)
 - Miguel Henrique de Oliveira
 - Murillo da Silva Brito
 - Murilo Ferreira da Costa
