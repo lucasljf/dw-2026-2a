@@ -8,7 +8,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 
 - Lucas José de Faria [@lucasljf](https://github.com/lucasljf)
 - Alexandre Alves Araújo
-- Camila Perez Alfonzo
+- Camila Perez Alfonzo[@harapecxd](https://github.com/harapecxd)
 - Emanuelly Vitoria Lima da Silva
 - Emilly Vitória Antônio de Lima
 - Gabriel Washington Freitas Ribeiro
