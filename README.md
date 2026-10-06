@@ -7,7 +7,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 ## Equipe de Desenvolvimento
 
 - Lucas José de Faria [@lucasljf](https://github.com/lucasljf)
-- Alexandre Alves Araújo
+- Alexandre Alves Araújo [@xxandd](https://github.com/xxandd)
 - Camila Perez Alfonzo
 - Emanuelly Vitoria Lima da Silva
 - Emilly Vitória Antônio de Lima
