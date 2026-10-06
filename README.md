@@ -22,7 +22,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Jean Paul Rodrigues Flauzino Filho
 - Joseane Souza Nunes
 - Lavínya Karolinne Costa Oliveira
-- Luís Arthur Morais Belo [@LuisMBLO] (https://github.com/LuisMBLO)
+- Luís Arthur Morais Belo [@LuisMBLO](https://github.com/LuisMBLO)
 - Luíz Otávio Oliveira Silva
 - Mateus Henrique Cavicchioli
 - Miguel Henrique de Oliveira
