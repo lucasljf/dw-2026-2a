@@ -15,7 +15,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Gilmar Alves de Oliveira Neto
 - Guilherme Saraiva Silva
 - Gustavo Henrique Silveira Rezende
-- Hiago Cândido de Oliveira
+- Hiago Cândido de Oliveira [@hiagocandido36](https://github.com/hiagocandido36)
 - Humberto Eugênio Rocha de Souza
 - Izabela Lima Oliveira
 - Izabella Bastos Avelar
