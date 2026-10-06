@@ -18,7 +18,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Hiago Cândido de Oliveira
 - Humberto Eugênio Rocha de Souza
 - Izabela Lima Oliveira
-- Izabella Bastos Avelar
+- Izabella Bastos Avelar [@Izabella1406] (https://github.com/Izabella1406)
 - Jean Paul Rodrigues Flauzino Filho
 - Joseane Souza Nunes
 - Lavínya Karolinne Costa Oliveira
