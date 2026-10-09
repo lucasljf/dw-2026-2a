@@ -28,7 +28,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Miguel Henrique de Oliveira
 - Murillo da Silva Brito [@Murillomsb](https://github.com/Murillomsb)
 - Murilo Ferreira da Costa
-- Núria Vitória Ferreira da Silva
+- Núria Vitória Ferreira da Silva [@Nuria000](http://github.com/Nuria000)
 - Otávio Augusto Oliveira Silva
 - Pyêtro Emanuel Batista do Nascimento
 - Quezia Oliveira Leite
