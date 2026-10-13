@@ -42,7 +42,7 @@ Criar uma página para explorar postagens, exibindo autor, conteúdo e quantidad
 - Izabella Bastos Avelar
 - Jean Paul Rodrigues Flauzino Filho [@jeanrodrigues-ai](https://github.com/jeanrodrigues-ai)
 - Joseane Souza Nunes
-- Lavínya Karolinne Costa Oliveira
+- Lavínya Karolinne Costa Oliveira [@LavinyaKarol](https://github.com/LavinyaKarol)
 - Luís Arthur Morais Belo
 - Luíz Otávio Oliveira Silva
 - Mateus Henrique Cavicchioli
