@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="salvar_usuario.php" method="post">
+    <form action="salvar_usuario.php" method="post" enctype="multipart/form-data">
         Nome: <br>
         <input type="text" name="nome"> <br><br>
         Apelido: <br>
@@ -16,7 +16,7 @@
         Senha: <br>
         <input type="text" name="senha"> <br><br>
         Foto: <br>
-        <input type="text" name="foto"> <br><br>
+        <input type="file" name="foto"> <br><br>
 
         <input type="submit" value="Cadastrar">
     </form>
