@@ -6,6 +6,8 @@ $apelido = $_POST['apelido'];
 $email = $_POST['email'];
 $senha = $_POST['senha'];
 
+$senha_nova = password_hash($senha, PASSWORD_DEFAULT);
+
 $nome_arquivo = $_FILES['foto']['name'];
 $caminho_temporario = $_FILES['foto']['tmp_name'];
 
@@ -17,7 +19,7 @@ $caminho_destino = "imagem_usuario/" . $novo_nome;
 
 move_uploaded_file($caminho_temporario, $caminho_destino);
 
-$sql = "INSERT INTO usuario (nome, apelido, email, senha, foto) VALUES ('$nome', '$apelido', '$email', '$senha', '$novo_nome')";
+$sql = "INSERT INTO usuario (nome, apelido, email, senha, foto) VALUES ('$nome', '$apelido', '$email', '$senha_nova', '$novo_nome')";
 
 mysqli_query($conexao, $sql);
 
