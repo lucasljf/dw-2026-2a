@@ -12,7 +12,7 @@
         <li><a href="form_turma.php">Cadastro de turma</a></li>
         <li><a href="form_aluno.php">Cadastro de alunos</a></li>
         <li><a href="form_trabalho.php">Cadastro de trabalhos</a></li>
-        <li><a href="">Criação de grupos</a></li>
+        <li><a href="form_grupo_trabalho.php">Criação de grupos</a></li>
     </ul>
 </body>
 
