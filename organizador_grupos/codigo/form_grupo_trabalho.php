@@ -23,7 +23,7 @@
             $trabalhos = mysqli_stmt_get_result($comando);
 
             while ($trabalho = mysqli_fetch_array($trabalhos)) {
-                $trabalho_id = $trabalho['idturma'];
+                $trabalho_id = $trabalho['idtrabalho'];
                 $trabalho_nome = $trabalho['nome'];
 
                 echo "<option value='$trabalho_id'>$trabalho_nome</option>";
